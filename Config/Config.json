@@ -60,11 +60,7 @@
                         "columns": [
                             {
                                 "kind": 1,
-                                "width": 399
-                            },
-                            {
-                                "kind": 7,
-                                "width": 60
+                                "width": 434
                             },
                             {
                                 "kind": 2,
@@ -73,6 +69,10 @@
                             {
                                 "kind": 5,
                                 "width": 90
+                            },
+                            {
+                                "kind": 3,
+                                "width": 93
                             }
                         ],
                         "icon_scale": 1
@@ -683,7 +683,7 @@
                     }
                 ],
                 "filePanelsListHeaderFont": "@systemFont, 10",
-                "filePanelsGeneralOverlayColor": "#252728",
+                "filePanelsGeneralOverlayColor": "@blackColor",
                 "filePanelsGeneralSplitterColor": "#252728",
                 "filePanelsGeneralTopSeparatorColor": "#25272880",
                 "filePanelsTabsFont": "@systemFont, 11",
@@ -711,9 +711,9 @@
                 "themeAppearance": "dark",
                 "filePanelsFooterInactiveBackgroundColor": "#1B1D1E",
                 "filePanelsFooterFont": "@systemFont, 10",
-                "filePanelsListSecondaryColumnsOpacity": "71",
+                "filePanelsHeaderSeparatorColor": "#46494C80",
                 "filePanelsListRowVerticalPadding": "0",
-                "filePanelsListGridColor": "#00000000",
+                "filePanelsListSecondaryColumnsOpacity": "62",
                 "filePanelsListFont": "@systemFont, 12",
                 "filePanelsListHeaderBackgroundColor": "#252728",
                 "filePanelsListHeaderTextColor": "#A9ADB1",
@@ -725,7 +725,7 @@
                 "filePanelsListRegularOddRowBackgroundColor": "#232527",
                 "filePanelsBriefFont": "@systemFont, 13",
                 "filePanelsBriefRowVerticalPadding": "0",
-                "filePanelsBriefGridColor": "#00000000",
+                "filePanelsBriefGridColor": "#141414",
                 "filePanelsTabsSelectedKeyWndActiveBackgroundColor": "#252728",
                 "filePanelsBriefRegularOddRowBackgroundColor": "#232527",
                 "filePanelsBriefFocusedActiveItemBackgroundColor": "#26539F",
@@ -771,7 +771,7 @@
                 "viewerTextSyntaxPreprocessorColor": "#F2A766",
                 "viewerSelectionColor": "#2A5FAF",
                 "filePanelsListRegularEvenRowBackgroundColor": "#26282A",
-                "filePanelsHeaderSeparatorColor": "#46494C80"
+                "filePanelsListGridColor": "@clearColor"
             }
         ]
     },
