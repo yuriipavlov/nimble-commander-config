@@ -702,8 +702,8 @@
                 "filePanelsHeaderTextColor": "#A9ADB1",
                 "filePanelsHeaderActiveTextColor": "#A9ADB1",
                 "filePanelsFooterActiveBackgroundColor": "#1B1D1E",
-                "filePanelsHeaderInactiveBackgroundColor": "#252728",
-                "filePanelsHeaderSeparatorColor": "#42444880",
+                "filePanelsGeneralDropBorderColor": "#3472CF",
+                "filePanelsHeaderInactiveBackgroundColor": "#242628",
                 "themeName": "Dark Grey",
                 "filePanelsFooterTextColor": "#A9ADB1",
                 "filePanelsFooterActiveTextColor": "#A9ADB1",
@@ -771,7 +771,7 @@
                 "viewerTextSyntaxPreprocessorColor": "#F2A766",
                 "viewerSelectionColor": "#2A5FAF",
                 "filePanelsListRegularEvenRowBackgroundColor": "#26282A",
-                "filePanelsGeneralDropBorderColor": "#3472CF"
+                "filePanelsHeaderSeparatorColor": "#46494C80"
             }
         ]
     },
