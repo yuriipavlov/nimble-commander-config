@@ -658,7 +658,7 @@
                 "filePanelsListHeaderFont": "@systemFont, 10"
             },
             {
-                "viewerBackgroundColor": "#141C26",
+                "viewerBackgroundColor": "#303030",
                 "filePanelsColoringRules_v1": [
                     {
                         "name": "selected",
@@ -682,7 +682,7 @@
                         "focused": "#FBFCFE"
                     }
                 ],
-                "filePanelsGeneralDropBorderColor": "#3A7DE0",
+                "filePanelsListHeaderFont": "@systemFont, 10",
                 "filePanelsGeneralOverlayColor": "#252728",
                 "filePanelsGeneralSplitterColor": "#252728",
                 "filePanelsGeneralTopSeparatorColor": "#25272880",
@@ -704,23 +704,23 @@
                 "filePanelsFooterActiveBackgroundColor": "#1B1D1E",
                 "filePanelsHeaderInactiveBackgroundColor": "#252728",
                 "filePanelsHeaderSeparatorColor": "#42444880",
-                "filePanelsFooterFont": "@labelFont, 13",
+                "themeName": "Dark Grey",
                 "filePanelsFooterTextColor": "#A9ADB1",
                 "filePanelsFooterActiveTextColor": "#A9ADB1",
                 "filePanelsFooterSeparatorsColor": "#222426",
                 "themeAppearance": "dark",
                 "filePanelsFooterInactiveBackgroundColor": "#1B1D1E",
-                "filePanelsListFont": "@systemFont, 13",
+                "filePanelsFooterFont": "@systemFont, 10",
                 "filePanelsListSecondaryColumnsOpacity": "71",
                 "filePanelsListRowVerticalPadding": "0",
                 "filePanelsListGridColor": "#00000000",
-                "filePanelsListHeaderFont": "@systemFont, 11",
+                "filePanelsListFont": "@systemFont, 12",
                 "filePanelsListHeaderBackgroundColor": "#252728",
                 "filePanelsListHeaderTextColor": "#A9ADB1",
                 "filePanelsListHeaderSeparatorColor": "#42444880",
                 "filePanelsListFocusedActiveRowBackgroundColor": "#26539F",
                 "filePanelsListFocusedInactiveRowBackgroundColor": "#222426",
-                "filePanelsListSelectedItemBackgroundColor": "#222426",
+                "filePanelsListSelectedItemBackgroundColor": "#1E2022",
                 "filePanelsBriefRegularEvenRowBackgroundColor": "#26282A",
                 "filePanelsListRegularOddRowBackgroundColor": "#232527",
                 "filePanelsBriefFont": "@systemFont, 13",
@@ -730,12 +730,12 @@
                 "filePanelsBriefRegularOddRowBackgroundColor": "#232527",
                 "filePanelsBriefFocusedActiveItemBackgroundColor": "#26539F",
                 "filePanelsBriefFocusedInactiveItemBackgroundColor": "#222426",
-                "filePanelsBriefSelectedItemBackgroundColor": "#222426",
+                "filePanelsBriefSelectedItemBackgroundColor": "#1E2022",
                 "filePanelsGalleryFont": "@systemFont, 10",
                 "filePanelsGalleryBackgroundColor": "#252728",
                 "filePanelsGalleryFocusedActiveItemBackgroundColor": "#26539F",
                 "filePanelsGalleryFocusedInactiveItemBackgroundColor": "#222426",
-                "filePanelsGallerySelectedItemBackgroundColor": "#222426",
+                "filePanelsGallerySelectedItemBackgroundColor": "#1E2022",
                 "terminalFont": "Menlo-Regular, 13",
                 "terminalOverlayColor": "#252728",
                 "terminalForegroundColor": "#C9D3DE",
@@ -760,7 +760,7 @@
                 "terminalAnsiColorE": "#79CDD8",
                 "terminalAnsiColorF": "#E6EDF3",
                 "viewerFont": "Menlo-Regular, 13",
-                "viewerOverlayColor": "#252728",
+                "viewerOverlayColor": "#303030",
                 "viewerTextColor": "#D4DEE9",
                 "viewerTextSyntaxKeywordColor": "#F08CC0",
                 "viewerTextSyntaxOperatorColor": "#DCE7FF",
@@ -771,7 +771,7 @@
                 "viewerTextSyntaxPreprocessorColor": "#F2A766",
                 "viewerSelectionColor": "#2A5FAF",
                 "filePanelsListRegularEvenRowBackgroundColor": "#26282A",
-                "themeName": "Dark Grey"
+                "filePanelsGeneralDropBorderColor": "#3472CF"
             }
         ]
     },
