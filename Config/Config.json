@@ -11,16 +11,16 @@
         "FinderTags": {
             "tags": {
                 "v1": [
+                    "Orange",
+                    "7",
+                    "Purple",
+                    "3",
                     "Blue",
                     "4",
                     "Green",
-                    "0",
-                    "Green",
                     "2",
-                    "Parallels Toolbox Tool",
-                    "0",
                     "Red",
-                    "0",
+                    "6",
                     "Yellow",
                     "5"
                 ]
@@ -60,7 +60,7 @@
                         "columns": [
                             {
                                 "kind": 1,
-                                "width": 374
+                                "width": 399
                             },
                             {
                                 "kind": 7,
@@ -73,10 +73,6 @@
                             {
                                 "kind": 5,
                                 "width": 90
-                            },
-                            {
-                                "kind": 8,
-                                "width": 120
                             }
                         ],
                         "icon_scale": 1
@@ -126,7 +122,9 @@
             ]
         }
     },
-    "viewer": {},
+    "viewer": {
+        "modalMode": false
+    },
     "terminal": {},
     "externalTools": {
         "tools_v1": [
@@ -569,59 +567,59 @@
                     }
                 ],
                 "filePanelsGeneralDropBorderColor": "#3A7DE0",
-                "filePanelsGeneralOverlayColor": "#1C2430",
-                "filePanelsGeneralSplitterColor": "#2A3440",
-                "filePanelsGeneralTopSeparatorColor": "#56627080",
+                "filePanelsGeneralOverlayColor": "#232E36",
+                "filePanelsGeneralSplitterColor": "#232E36",
+                "filePanelsGeneralTopSeparatorColor": "#232E3680",
                 "filePanelsTabsFont": "@systemFont, 11",
                 "filePanelsTabsTextColor": "#AEB8C6",
-                "filePanelsTabsSelectedKeyWndActiveBackgroundColor": "#303C4A",
+                "filePanelsTabsRegularNotKeyWndBackgroundColor": "#1C2228",
                 "filePanelsTabsSelectedKeyWndInactiveBackgroundColor": "#273240",
                 "filePanelsTabsSelectedNotKeyWndBackgroundColor": "#232D39",
                 "filePanelsTabsRegularKeyWndHoverBackgroundColor": "#354252",
-                "filePanelsTabsRegularKeyWndRegularBackgroundColor": "#202830",
-                "filePanelsTabsRegularNotKeyWndBackgroundColor": "#202830",
-                "filePanelsTabsSeparatorColor": "#4C596880",
+                "filePanelsTabsRegularKeyWndRegularBackgroundColor": "#1A2128",
+                "filePanelsHeaderActiveBackgroundColor": "#1C2228",
+                "filePanelsTabsSeparatorColor": "#00000000",
                 "filePanelsTabsPictogramColor": "#B7C1CE",
                 "filePanelsHeaderFont": "@labelFont, 13",
                 "filePanelsHeaderTextColor": "#8E9AAA",
                 "filePanelsHeaderActiveTextColor": "#C9D3DE",
-                "filePanelsHeaderActiveBackgroundColor": "#202830",
-                "filePanelsHeaderInactiveBackgroundColor": "#202830",
-                "filePanelsHeaderSeparatorColor": "#4C596880",
+                "filePanelsFooterActiveBackgroundColor": "#14191E",
+                "filePanelsHeaderInactiveBackgroundColor": "#232E36",
+                "filePanelsHeaderSeparatorColor": "#4A566480",
                 "filePanelsFooterFont": "@labelFont, 13",
                 "filePanelsFooterTextColor": "#8E9AAA",
                 "filePanelsFooterActiveTextColor": "#C9D3DE",
-                "filePanelsFooterSeparatorsColor": "#2A3440",
-                "filePanelsFooterActiveBackgroundColor": "#202830",
-                "filePanelsFooterInactiveBackgroundColor": "#202830",
+                "filePanelsFooterSeparatorsColor": "#384454",
+                "themeAppearance": "dark",
+                "filePanelsFooterInactiveBackgroundColor": "#1A2128",
                 "filePanelsListFont": "@systemFont, 13",
                 "filePanelsListSecondaryColumnsOpacity": "100",
                 "filePanelsListRowVerticalPadding": "0",
                 "filePanelsListGridColor": "#00000000",
                 "filePanelsListHeaderFont": "@systemFont, 11",
-                "filePanelsListHeaderBackgroundColor": "#202830",
+                "filePanelsListHeaderBackgroundColor": "#232E36",
                 "filePanelsListHeaderTextColor": "#8E9AAA",
-                "filePanelsListHeaderSeparatorColor": "#4C596880",
+                "filePanelsListHeaderSeparatorColor": "#4A566480",
                 "filePanelsListFocusedActiveRowBackgroundColor": "#1C5CB4",
                 "filePanelsListFocusedInactiveRowBackgroundColor": "#364150",
                 "filePanelsListSelectedItemBackgroundColor": "#2B6BC04D",
-                "filePanelsListRegularEvenRowBackgroundColor": "#202830",
-                "filePanelsListRegularOddRowBackgroundColor": "#1C2430",
+                "filePanelsBriefRegularEvenRowBackgroundColor": "#1A2026",
+                "filePanelsListRegularOddRowBackgroundColor": "#1C2228",
                 "filePanelsBriefFont": "@systemFont, 13",
                 "filePanelsBriefRowVerticalPadding": "0",
-                "filePanelsBriefGridColor": "#2A3440",
-                "filePanelsBriefRegularEvenRowBackgroundColor": "#202830",
-                "filePanelsBriefRegularOddRowBackgroundColor": "#1C2430",
+                "filePanelsBriefGridColor": "#00000000",
+                "filePanelsTabsSelectedKeyWndActiveBackgroundColor": "#1C2228",
+                "filePanelsBriefRegularOddRowBackgroundColor": "#202B34",
                 "filePanelsBriefFocusedActiveItemBackgroundColor": "#1C5CB4",
                 "filePanelsBriefFocusedInactiveItemBackgroundColor": "#364150",
                 "filePanelsBriefSelectedItemBackgroundColor": "#2B6BC04D",
                 "filePanelsGalleryFont": "@systemFont, 10",
-                "filePanelsGalleryBackgroundColor": "#202830",
+                "filePanelsGalleryBackgroundColor": "#232E36",
                 "filePanelsGalleryFocusedActiveItemBackgroundColor": "#1C5CB4",
                 "filePanelsGalleryFocusedInactiveItemBackgroundColor": "#364150",
                 "filePanelsGallerySelectedItemBackgroundColor": "#2A3440",
                 "terminalFont": "Menlo-Regular, 13",
-                "terminalOverlayColor": "#1C2430",
+                "terminalOverlayColor": "#232E36",
                 "terminalForegroundColor": "#C9D3DE",
                 "terminalBoldForegroundColor": "#FFFFFF",
                 "terminalBackgroundColor": "#0F141C",
@@ -644,7 +642,7 @@
                 "terminalAnsiColorE": "#79CDD8",
                 "terminalAnsiColorF": "#E6EDF3",
                 "viewerFont": "Menlo-Regular, 13",
-                "viewerOverlayColor": "#1C2430",
+                "viewerOverlayColor": "#232E36",
                 "viewerTextColor": "#D4DEE9",
                 "viewerTextSyntaxKeywordColor": "#F08CC0",
                 "viewerTextSyntaxOperatorColor": "#DCE7FF",
@@ -655,7 +653,7 @@
                 "viewerTextSyntaxPreprocessorColor": "#F2A766",
                 "viewerSelectionColor": "#2A5FAF",
                 "themeName": "Dark Blue Grey",
-                "themeAppearance": "dark"
+                "filePanelsListRegularEvenRowBackgroundColor": "#1A2026"
             }
         ]
     },
