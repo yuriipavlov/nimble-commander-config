@@ -813,16 +813,16 @@
         "menu.file.calculate_sizes": "⇧^\r",
         "menu.file.calculate_all_sizes": "⇧⌥\r",
         "menu.view.show_terminal": [
-            "⌘o",
-            "⌘щ"
+            "^o",
+            "^щ"
         ],
         "menu.view.panels_position.focusterminal": "^⌥\t",
         "menu.go.back": [
-            "⌥",
+            "⌥←",
             "⌘["
         ],
         "menu.go.forward": [
-            "⌥",
+            "⌥→",
             "⌘]"
         ],
         "menu.go.left_panel": "⌘",
