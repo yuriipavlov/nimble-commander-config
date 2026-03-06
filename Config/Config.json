@@ -7,7 +7,9 @@
     "filePanel": {
         "general": {},
         "presentation": {},
-        "quickSearch": {},
+        "quickSearch": {
+            "ignoreCharacters": "+-"
+        },
         "FinderTags": {
             "tags": {
                 "v1": [
@@ -784,5 +786,13 @@
             " "
         ],
         "panel.show_preview": ""
+        "menu.command.select_with_mask": [
+            "⌘=",
+            "+"
+        ],
+        "menu.command.deselect_with_mask": [
+            "⌘-",
+            "-"
+        ]
     }
 }
