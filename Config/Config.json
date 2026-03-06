@@ -8,7 +8,7 @@
         "general": {},
         "presentation": {},
         "quickSearch": {
-            "ignoreCharacters": "+-"
+            "ignoreCharacters": "+- "
         },
         "FinderTags": {
             "tags": {
@@ -62,7 +62,7 @@
                         "columns": [
                             {
                                 "kind": 1,
-                                "width": 434
+                                "width": 458
                             },
                             {
                                 "kind": 2,
@@ -74,7 +74,7 @@
                             },
                             {
                                 "kind": 3,
-                                "width": 93
+                                "width": 89
                             }
                         ],
                         "icon_scale": 1
@@ -127,7 +127,9 @@
     "viewer": {
         "modalMode": false
     },
-    "terminal": {},
+    "terminal": {
+        "cursorMode": 2
+    },
     "externalTools": {
         "tools_v1": [
             {
@@ -145,6 +147,30 @@
                 "shortcut": "\u0000",
                 "startup": 0,
                 "uuid": "7df0dbaa-478e-46f8-b9d4-3c03379eb955"
+            },
+            {
+                "title": "Reveal in Finder",
+                "path": "/usr/bin/open",
+                "parameters": "-R %r",
+                "shortcut": "",
+                "startup": 0,
+                "uuid": "ee7e2095-c932-4b03-be41-30839f07c6df"
+            },
+            {
+                "title": "AnyDesk",
+                "path": "/Applications/AnyDesk.app",
+                "parameters": "",
+                "shortcut": "\u0000",
+                "startup": 0,
+                "uuid": "249c7022-2fdd-4ce6-8d2b-3f0331c5eb5d"
+            },
+            {
+                "title": "Mac Console",
+                "path": "/System/Applications/Utilities/Console.app",
+                "parameters": "",
+                "shortcut": "\u0000",
+                "startup": 0,
+                "uuid": "44563a16-c3f7-494a-9da2-09a6089996bf"
             }
         ]
     },
@@ -778,22 +804,29 @@
         ]
     },
     "hotkeyOverrides_v1": {
+        "menu.file.new_file": [
+            "⇧",
+            "⌥⌘n"
+        ],
+        "menu.file.calculate_sizes": "⇧⌥\\r",
+        "menu.view.show_terminal": [
+            "⌥⌘\\t",
+            "⌥⌘o"
+        ],
+        "menu.view.panels_position.focusterminal": [
+            "⌘\\t",
+            "^⌥\\t"
+        ],
+        "menu.go.back": [
+            "⌥",
+            "⌘["
+        ],
+        "menu.go.forward": [
+            "⌥",
+            "⌘]"
+        ],
+        "menu.go.left_panel": "⌘",
         "menu.go.right_panel": "⌘",
-        "menu.command.rename_in_place": "",
-        "menu.command.compress_here": "⌘",
-        "panel.move_next_and_invert_selection": [
-            "\u0003",
-            " "
-        ],
-        "panel.show_preview": ""
-        "menu.command.delete": [
-            "",
-            ""
-        ],
-        "menu.command.delete_permanently": [
-            "⇧",
-            "⇧"
-        ],
         "menu.command.select_with_mask": [
             "⌘=",
             "+"
@@ -801,6 +834,28 @@
         "menu.command.deselect_with_mask": [
             "⌘-",
             "-"
-        ]
+        ],
+        "menu.command.internal_viewer": "",
+        "menu.command.rename_in_place": [
+            "",
+            "^"
+        ],
+        "menu.command.delete": [
+            "",
+            ""
+        ],
+        "menu.command.delete_permanently": [
+            "⇧",
+            "⇧"
+        ],
+        "menu.command.compress_here": [
+            "⌘",
+            ""
+        ],
+        "panel.move_next_and_invert_selection": [
+            "\u0003",
+            " "
+        ],
+        "panel.show_preview": ""
     }
 }
