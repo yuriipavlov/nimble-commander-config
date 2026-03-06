@@ -786,6 +786,14 @@
             " "
         ],
         "panel.show_preview": ""
+        "menu.command.delete": [
+            "",
+            ""
+        ],
+        "menu.command.delete_permanently": [
+            "⇧",
+            "⇧"
+        ],
         "menu.command.select_with_mask": [
             "⌘=",
             "+"
