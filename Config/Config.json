@@ -816,6 +816,8 @@
             "^o",
             "^щ"
         ],
+        "menu.view.panels_position.move_up": "^⌥↓",
+        "menu.view.panels_position.move_down": "^⌥↑",
         "menu.view.panels_position.focusterminal": "^⌥\t",
         "menu.go.back": [
             "⌥←",
