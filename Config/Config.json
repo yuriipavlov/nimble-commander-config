@@ -810,15 +810,15 @@
             "⇧",
             "⌥⌘n"
         ],
-        "menu.file.calculate_sizes": "⇧^\r",
-        "menu.file.calculate_all_sizes": "⇧⌥\r",
+        "menu.file.calculate_sizes": "⇧^\\r",
+        "menu.file.calculate_all_sizes": "⇧⌥\\r",
         "menu.view.show_terminal": [
             "^o",
             "^щ"
         ],
         "menu.view.panels_position.move_up": "^⌥↓",
         "menu.view.panels_position.move_down": "^⌥↑",
-        "menu.view.panels_position.focusterminal": "^⌥\t",
+        "menu.view.panels_position.focusterminal": "^⌥\\t",
         "menu.go.back": [
             "⌥←",
             "⌘["
@@ -852,7 +852,7 @@
         ],
         "menu.command.compress_here": [
             "⌘",
-            ""
+            "⌥"
         ],
         "panel.move_next_and_invert_selection": [
             "\u0003",
