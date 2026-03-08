@@ -173,6 +173,14 @@
                 "shortcut": "\u0000",
                 "startup": 0,
                 "uuid": "44563a16-c3f7-494a-9da2-09a6089996bf"
+            },
+            {
+                "title": "Show Finder Info",
+                "path": "/Users/yuriipavlov/Library/Application Support/Nimble Commander/Scripts/show_finder_info.sh",
+                "parameters": "\"%p\"",
+                "shortcut": "",
+                "startup": 0,
+                "uuid": "00ef8949-9ff8-4d87-9a4a-f149becb49ef"
             }
         ]
     },
@@ -827,8 +835,11 @@
             "⌥→",
             "⌘]"
         ],
-        "menu.go.left_panel": "⌘",
-        "menu.go.right_panel": "⌘",
+        "menu.go.left_panel": "⌥",
+        "menu.go.right_panel": "⌥",
+        "menu.command.file_attributes": [
+            ""
+        ],
         "menu.command.select_with_mask": [
             "⌘=",
             "+"
