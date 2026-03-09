@@ -138,7 +138,7 @@
                 "title": "Open System Terminal Here",
                 "path": "/System/Applications/Utilities/Terminal.app",
                 "parameters": "%r",
-                "shortcut": "",
+                "shortcut": "\uF70C",
                 "startup": 0,
                 "uuid": "916fb033-dd7c-4df9-9497-f7553c629ac1"
             },
@@ -154,7 +154,7 @@
                 "title": "Reveal in Finder",
                 "path": "/usr/bin/open",
                 "parameters": "-R %r",
-                "shortcut": "",
+                "shortcut": "\uF70D",
                 "startup": 0,
                 "uuid": "ee7e2095-c932-4b03-be41-30839f07c6df"
             },
@@ -861,10 +861,7 @@
             "⇧",
             "⇧"
         ],
-        "menu.command.compress_here": [
-            "⌘",
-            "⌥"
-        ],
+        "menu.command.compress_here": "⌥\uF708",
         "panel.move_next_and_invert_selection": [
             "\u0003",
             " "
