@@ -138,7 +138,7 @@
                 "title": "Open System Terminal Here",
                 "path": "/System/Applications/Utilities/Terminal.app",
                 "parameters": "%r",
-                "shortcut": "\uF70C",
+                "shortcut": "",
                 "startup": 0,
                 "uuid": "916fb033-dd7c-4df9-9497-f7553c629ac1"
             },
@@ -154,7 +154,7 @@
                 "title": "Reveal in Finder",
                 "path": "/usr/bin/open",
                 "parameters": "-R %r",
-                "shortcut": "\uF70D",
+                "shortcut": "",
                 "startup": 0,
                 "uuid": "ee7e2095-c932-4b03-be41-30839f07c6df"
             },
@@ -818,11 +818,17 @@
             "⇧",
             "⌥⌘n"
         ],
+        "menu.file.reveal_in_opposite_panel": [
+            "⌘\uF702",
+            "⌘\uF703"
+        ],
         "menu.file.calculate_sizes": "⇧^\\r",
         "menu.file.calculate_all_sizes": "⇧⌥\\r",
         "menu.view.show_terminal": [
             "^o",
-            "^щ"
+            "^щ",
+            "⌥⌘o",
+            "⌥⌘щ"
         ],
         "menu.view.panels_position.move_up": "^⌥↓",
         "menu.view.panels_position.move_down": "^⌥↑",
@@ -837,6 +843,7 @@
         ],
         "menu.go.left_panel": "⌥",
         "menu.go.right_panel": "⌥",
+        "menu.go.follow_symlink": "⌥⌘\uF703",
         "menu.command.file_attributes": [
             ""
         ],
@@ -861,7 +868,7 @@
             "⇧",
             "⇧"
         ],
-        "menu.command.compress_here": "⌥\uF708",
+        "menu.command.compress_here": "⌥",
         "panel.move_next_and_invert_selection": [
             "\u0003",
             " "
