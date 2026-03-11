@@ -818,9 +818,13 @@
             "⇧",
             "⌥⌘n"
         ],
+        "menu.file.find": [
+            "⌥",
+            "⌘f"
+        ],
         "menu.file.reveal_in_opposite_panel": [
-            "⌘\uF702",
-            "⌘\uF703"
+            "⌘",
+            "⌘"
         ],
         "menu.file.calculate_sizes": "⇧^\\r",
         "menu.file.calculate_all_sizes": "⇧⌥\\r",
@@ -841,12 +845,16 @@
             "⌥→",
             "⌘]"
         ],
-        "menu.go.left_panel": "⌥",
-        "menu.go.right_panel": "⌥",
-        "menu.go.follow_symlink": "⌥⌘\uF703",
-        "menu.command.file_attributes": [
-            ""
+        "menu.go.follow_symlink": "⌥⌘",
+        "menu.go.left_panel": [
+            "⌥",
+            "⌘"
         ],
+        "menu.go.right_panel": [
+            "⌥",
+            "⌘"
+        ],
+        "menu.command.file_attributes": "",
         "menu.command.select_with_mask": [
             "⌘=",
             "+"
