@@ -820,7 +820,9 @@
         ],
         "menu.file.find": [
             "⌥",
-            "⌘f"
+            "⌘f",
+            "⌥",
+            "⌘"
         ],
         "menu.file.reveal_in_opposite_panel": [
             "⌘",
