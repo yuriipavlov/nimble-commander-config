@@ -878,7 +878,10 @@
             "⇧",
             "⇧"
         ],
-        "menu.command.compress_here": "⌥",
+        "menu.command.compress_here": [
+            "⌥",
+            "⌘"
+        ],
         "panel.move_next_and_invert_selection": [
             "\u0003",
             " "
