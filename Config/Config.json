@@ -30,6 +30,9 @@
                 ]
             }
         },
+        "gotoPalette": {
+            "debugLogging": true
+        },
         "spotlight": {},
         "operations": {},
         "layout": {
