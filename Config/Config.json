@@ -821,18 +821,18 @@
             "⇧",
             "⌥⌘n"
         ],
-        "menu.file.find": [
-            "⌥",
-            "⌘f",
-            "⌥",
-            "⌘"
-        ],
         "menu.file.reveal_in_opposite_panel": [
             "⌘",
             "⌘"
         ],
         "menu.file.calculate_sizes": "⇧^\\r",
         "menu.file.calculate_all_sizes": "⇧⌥\\r",
+        "menu.file.find": [
+            "⌥",
+            "⌘f",
+            "⌥",
+            "⌘"
+        ],
         "menu.view.show_terminal": [
             "^o",
             "^щ",
@@ -881,10 +881,8 @@
             "⇧",
             "⇧"
         ],
-        "menu.command.compress_here": [
-            "⌥",
-            "⌘"
-        ],
+        "menu.command.compress_here": "⌥",
+        "menu.command.compress_to_opposite": "⌘",
         "panel.move_next_and_invert_selection": [
             "\u0003",
             " "
