@@ -6,6 +6,7 @@
     },
     "filePanel": {
         "general": {
+            "showLocalizedFilenames": false,
             "selectionSizeFormat": 2
         },
         "presentation": {},
@@ -739,7 +740,7 @@
                 "filePanelsHeaderActiveBackgroundColor": "#252728",
                 "filePanelsTabsSeparatorColor": "#00000000",
                 "filePanelsTabsPictogramColor": "#797A79",
-                "filePanelsHeaderFont": "@labelFont, 13",
+                "filePanelsListGridColor": "@clearColor",
                 "filePanelsHeaderTextColor": "#A9ADB1",
                 "filePanelsHeaderActiveTextColor": "#A9ADB1",
                 "filePanelsFooterActiveBackgroundColor": "#1B1D1E",
@@ -812,7 +813,7 @@
                 "viewerTextSyntaxPreprocessorColor": "#F2A766",
                 "viewerSelectionColor": "#2A5FAF",
                 "filePanelsListRegularEvenRowBackgroundColor": "#26282A",
-                "filePanelsListGridColor": "@clearColor"
+                "filePanelsHeaderFont": "@systemFont, 12"
             }
         ]
     },
